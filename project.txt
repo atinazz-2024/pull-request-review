@@ -1,5 +1,5 @@
 Project Review Demo
-This file is used for practicing GitHub code review.
+This file is for practicing GitHub code review.
 
 Goals:
 - Review the content.
